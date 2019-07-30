@@ -61,7 +61,7 @@ footer.page-footer {
 }
 
 .card {
-  min-height: 342px;
+  min-height: 30px;
 }
 .card-action:hover {
   background-color: #ffee00
